@@ -7,12 +7,6 @@ This project uses a **Random Forest model** to predict customer churn based on h
 - **Approach:** Data cleaning, exploratory data analysis (EDA), feature engineering, and model training with Random Forest.
 - **Output:** Predictions on churn likelihood and key factors influencing churn.
 
-## Files in Repository
-- **Customer_Churn_Prediction.ipynb** — Main Jupyter Notebook containing code, analysis, and visualizations.
-- **synthetic_telco_churn.xlsx** — Sample dataset used for training and testing.
-- **Customer_Churn_Prediction_Stakeholder_Report.pdf** — Summary report for stakeholders with key findings and recommendations.
-- **README.md** — Project documentation.
-
 ## Key Insights
 - Certain features such as **tenure**, **monthly charges**, and **contract type** have strong influence on churn.
 - Long-term contracts are associated with lower churn rates.
